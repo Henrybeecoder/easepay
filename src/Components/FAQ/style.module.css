@@ -1,0 +1,8 @@
+.faq {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 0;
+}
